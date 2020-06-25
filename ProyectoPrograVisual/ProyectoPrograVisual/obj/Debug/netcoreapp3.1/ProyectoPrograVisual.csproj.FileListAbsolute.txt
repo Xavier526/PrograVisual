@@ -1,0 +1,13 @@
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\bin\Debug\netcoreapp3.1\ProyectoPrograVisual.exe
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\bin\Debug\netcoreapp3.1\ProyectoPrograVisual.deps.json
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\bin\Debug\netcoreapp3.1\ProyectoPrograVisual.runtimeconfig.json
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\bin\Debug\netcoreapp3.1\ProyectoPrograVisual.runtimeconfig.dev.json
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\bin\Debug\netcoreapp3.1\ProyectoPrograVisual.dll
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\bin\Debug\netcoreapp3.1\ProyectoPrograVisual.pdb
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\obj\Debug\netcoreapp3.1\ProyectoPrograVisual.csprojAssemblyReference.cache
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\obj\Debug\netcoreapp3.1\ProyectoPrograVisual.AssemblyInfoInputs.cache
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\obj\Debug\netcoreapp3.1\ProyectoPrograVisual.AssemblyInfo.cs
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\obj\Debug\netcoreapp3.1\ProyectoPrograVisual.csproj.CoreCompileInputs.cache
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\obj\Debug\netcoreapp3.1\ProyectoPrograVisual.dll
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\obj\Debug\netcoreapp3.1\ProyectoPrograVisual.pdb
+C:\Users\win\Pictures\ProyectosNuevos C#\ProyectoPrograVisual\ProyectoPrograVisual\obj\Debug\netcoreapp3.1\ProyectoPrograVisual.genruntimeconfig.cache
